@@ -1,0 +1,19 @@
+:root {
+    --mainColor: #15202B;
+    --secondaryColor: #192734;
+
+    --borderColor: #164d56;
+
+    --mainText: white;
+    --secondaryText: #eee;
+
+    --themeDotBorder: white;
+
+    --previewBg: rgb(25, 39, 52, 0.8);
+    --previewShadow: #111921;
+
+    --btnCv: white;
+    --btnCvHover: #164d56;
+    --btnCvText: black;
+    --btnCvHoverText: white;
+}
