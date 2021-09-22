@@ -311,8 +311,8 @@ h6 { font-size: 16px; }
 .sql {width: 70%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
 .htmlCss {width: 80%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
 .javascript {width: 50%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
-.reactjs {width: 20%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
-.nodejs {width: 40%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
+.reactjs {width: 30%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
+.nodejs {width: 50%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
 .git {width: 90%; border-radius: 3px 0 0 3px; background-color: #4CAF50;}
 
 /*Formación*/
